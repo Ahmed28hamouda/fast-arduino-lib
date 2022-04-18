@@ -140,4 +140,5 @@
         "*.tcc": "cpp",
         "fstream": "cpp"
     }
+    "python.terminal.activateEnvironment": false
 }
