@@ -13,3 +13,4 @@ tuto-samples/*/sizes.txt
 tuto-samples/fastarduino/errors
 new-examples-data.xlsx
 sizes-diff.xlsx
+.vscode/settings.json
